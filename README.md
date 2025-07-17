@@ -48,6 +48,7 @@ Characters can dodge to avoid attacks. There's a short cooldown after dodging, s
 ## Practice against Bot mode
 
 FighterX includes a **Practice Mode** where you can practice against a bot. This mode is great for warming up or practicing combos and dodging.
+![ezgif-483ab3fb0de746](https://github.com/user-attachments/assets/f96b0f33-3a10-42f9-b03c-d1d552d29dbe)
 
 You can choose from three difficulty levels, each adjusting the bot's behavior and reaction timing:
 
